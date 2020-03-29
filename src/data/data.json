@@ -1,0 +1,60 @@
+{
+    "item":
+    {
+        "Skirt": [
+        {
+            "link": "https://www.jcrew.com/p/womens_category/skirts/aline/tall-pleated-midi-skirt/AC770?sale=true&color_name=vintage-burgundy",
+            "text": "Pleated Skirt (Tall)",
+			"brand": "Jcrew",
+            "price":"C$100.50",
+			"sale":"true",
+			"original_price":"C$144",
+			"image":"url('https://www.jcrew.com/s7-img-facade/AC473_BK0001_m?fmt=jpeg&qlt=90,0&resMode=sharp&op_usm=.1,0,0,0&crop=0,0,0,0&wid=300&hei=300')"
+        },
+		{
+            "link": "https://bananarepublic.gapcanada.ca/browse/product.do?pid=549853013&pcid=999&vid=3",
+            "text": "Polka Dott Pleated Skirt (Tall)",
+			"brand": "Banana Republic",
+            "price":"C$145 - (60%)",
+			"sale":"false",
+			"image":"url('https://bananarepublic.gapcanada.ca/webcontent/0018/391/778/cn18391778.jpg')"
+        },
+		{
+            "link": "https://bananarepublic.gapcanada.ca/browse/product.do?pid=547992013&pcid=999&vid=1",
+            "text": "Satin Pleated Skirt (Tall)",
+			"brand": "Banana Republic",
+            "price":"C$70.25 - (60%)",
+			"sale":"false",
+			"image":"url('https://bananarepublic.gapcanada.ca/webcontent/0018/243/497/cn18243497.jpg')"
+        }
+		
+		
+		
+		],
+        "Blouse": [
+            {
+                "link": "https://suzyshier.com/products/0103-46873062-embroidered-chiffon-peasant-blouse?refSrc=4479055724632&nosto=productpage-nosto-1",
+                "text": "Dot Chiffon Peasant Blouse",
+				"brand": "Suzy Shier",
+                "price": "C$21.60",
+				"sale":"true",
+			    "original_price":"C$36",
+				"image":"url('https://cdn.shopify.com/s/files/1/1981/3263/products/010346873062-13-1_x1500.jpg?v=1580393365')"
+            },
+			
+			 {
+                "link": "https://suzyshier.com/products/0103-46872564-flared-sleeves-chiffon-blouse?refSrc=4436526891096&nosto=productpage-nosto-1",
+                "text": "Flared Sleeve Chiffon Blouse",
+				"brand": "Suzy Shier",
+                "price": "C$29",
+				"sale":"true",
+				"original_price":"C$34",
+				"image":"url('https://cdn.shopify.com/s/files/1/1981/3263/products/010346872564-19-1_600x1000_crop_center.jpg?v=1576524260')"
+            }
+
+        ]
+        
+    }
+
+
+}
